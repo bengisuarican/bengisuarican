@@ -19,5 +19,5 @@ Although I'm based in Türkiye, I'm open to **global remote work opportunities**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-📊 **Latest Project:** [SQL Coding Exercises – Udemy Course]([https://github.com/bengisuarican/SQL-Coding-Exercises])  
-📈 **Next Project (coming soon):** Excel Dashboard with Advanced Functions
+📊 **Latest Project:** [Sales Tracking Excel Project]([https://github.com/bengisuarican/sales-tracking-excel-project])  
+
