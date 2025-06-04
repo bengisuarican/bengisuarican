@@ -24,3 +24,4 @@ Although I'm based in Türkiye, I'm open to **global remote work opportunities**
 
 📊 **Latest Project:** [Sales Tracking Excel Project]([https://github.com/bengisuarican/sales-tracking-excel-project])  
 
+![Profile views](https://komarev.com/ghpvc/?username=bengisuarican)
