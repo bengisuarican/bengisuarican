@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://i.gifer.com/14ba.gif" width="300"/>
-</p>
 
 ## Welcome to my GitHub profile 👋
 
