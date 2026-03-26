@@ -2,7 +2,7 @@
 
 I'm a data analyst in training, focused on building end-to-end analytical pipelines at the intersection of AI and data.
 
-Currently developing skills in Python, SQL, and data storytelling — with a focus on product analytics and AI-powered tools.
+Currently developing skills in Python, SQL, and data storytelling with a focus on product analytics and AI-powered tools.
 
 Open to **remote opportunities** in data analysis, product analytics, and AI-adjacent roles.
 
