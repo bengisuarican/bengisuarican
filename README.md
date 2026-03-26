@@ -1,24 +1,26 @@
+# Hi, I'm Bengisu 👋
 
-## Welcome to my GitHub profile 👋
+I'm a data analyst in training, focused on building end-to-end analytical pipelines at the intersection of AI and data.
 
-I'm currently focused on developing practical skills in data analysis using **Excel**, **SQL**, and **PostgreSQL**. 
+Currently developing skills in Python, SQL, and data storytelling — with a focus on product analytics and AI-powered tools.
 
-In **Excel**, I work extensively with Pivot Tables, lookup and text functions, conditional formatting, Power Query, and various data cleaning techniques to transform and analyze datasets.
+Open to **remote opportunities** in data analysis, product analytics, and AI-adjacent roles.
 
-In **SQL**, I use aggregation functions, conditional logic, subqueries, CTEs, and window functions to answer business questions using real-world datasets.
+## 🛠️ Skills
 
-Although I'm based in Türkiye, I'm open to **global remote work opportunities** and collaboration on international projects.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-### 💻 Skills
+## 📂 Projects
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-2CA42C?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+| Project | Description | Stack |
+|---|---|---|
+| [AI Product Usage Analytics](https://github.com/bengisuarican/ai-product-usage-analytics) | End-to-end analysis of user behavior, feature engagement, and churn patterns for an AI SaaS product | Python, Pandas, SQLite, Matplotlib |
 
-
-📊 **Latest Project:** [Sales Tracking Excel Project]([https://github.com/bengisuarican/sales-tracking-excel-project])  
-
-![Profile views](https://komarev.com/ghpvc/?username=bengisuarican)
+## 📍 Based in Türkiye — open to global remote work
