@@ -23,4 +23,4 @@ Open to **remote or hybrid opportunities** in data analysis, product analytics, 
 |---|---|---|
 | [AI Product Usage Analytics](https://github.com/bengisuarican/ai-product-usage-analytics) | End-to-end analysis of user behavior, feature engagement, and churn patterns for an AI SaaS product | Python, Pandas, SQLite, Matplotlib |
 
-## 📍 Based in Türkiye — open to global remote work
+## 📍 Based in Türkiye — open to global remote or hybrid work
