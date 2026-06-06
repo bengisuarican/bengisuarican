@@ -2,9 +2,7 @@
 
 
 
-I'm a data analyst focused on building end-to-end analytical pipelines at the intersection of AI and data.
-
-I work with Python, SQL, and data storytelling with a focus on product analytics and AI-powered tools.
+I'm a data analyst focused on product analytics and user behavior, building end-to-end analytical pipelines with Python, SQL, and Power BI.
 
 Open to **remote or hybrid opportunities** in data analysis, product analytics, and AI-adjacent roles.
 
