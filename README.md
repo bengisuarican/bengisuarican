@@ -16,6 +16,7 @@ Open to **remote or hybrid opportunities** in data analysis, product analytics, 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ## 📂 Projects
 
@@ -23,4 +24,4 @@ Open to **remote or hybrid opportunities** in data analysis, product analytics, 
 |---|---|---|
 | [AI Product Usage Analytics](https://github.com/bengisuarican/ai-product-usage-analytics) | End-to-end analysis of user behavior, feature engagement, and churn patterns for an AI SaaS product | Python, Pandas, SQLite, Matplotlib |
 
-## 📍 Based in Türkiye — open to global remote or hybrid work
+## 📍 Based in Türkiye — open to global remote or hybrid roles with relocation.
