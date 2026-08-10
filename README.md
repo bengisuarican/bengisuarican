@@ -23,5 +23,6 @@ Open to **remote or hybrid opportunities** in data analysis, product analytics, 
 | Project | Description | Stack |
 |---|---|---|
 | [AI Product Usage Analytics](https://github.com/bengisuarican/ai-product-usage-analytics) | End-to-end analysis of user behavior, feature engagement, and churn patterns for an AI SaaS product | Python, Pandas, SQLite, Matplotlib |
+| [System Monitoring and Root Cause Analysis](https://github.com/bengisuarican/system-monitoring-root-cause-analysis) | Investigates whether system performance or product experience drives churn, connecting API logs and system events to user and churn data | Python, PostgreSQL, SQL, Pandas, Power BI |
 
 ## 📍 Based in Türkiye — open to global remote or hybrid roles with relocation.
