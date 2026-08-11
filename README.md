@@ -1,10 +1,8 @@
 # Hi, I'm Bengisu 👋
 
+Data Analyst with an engineering background, building end-to-end pipelines from raw data to business insight using Python, SQL, and Power BI.
 
-
-I'm a data analyst focused on product analytics and user behavior, building end-to-end analytical pipelines with Python, SQL, and Power BI.
-
-Open to **remote or hybrid opportunities** in data analysis, product analytics, and AI-adjacent roles.
+Open to remote or hybrid Data Analyst roles.
 
 ## 🛠️ Skills
 
@@ -25,4 +23,4 @@ Open to **remote or hybrid opportunities** in data analysis, product analytics, 
 | [AI Product Usage Analytics](https://github.com/bengisuarican/ai-product-usage-analytics) | End-to-end analysis of user behavior, feature engagement, and churn patterns for an AI SaaS product | Python, Pandas, SQLite, Matplotlib |
 | [System Monitoring and Root Cause Analysis](https://github.com/bengisuarican/system-monitoring-root-cause-analysis) | Investigates whether system performance or product experience drives churn, connecting API logs and system events to user and churn data | Python, PostgreSQL, SQL, Pandas, Power BI |
 
-## 📍 Based in Türkiye — open to global remote or hybrid roles with relocation.
+## 📍 Based in Türkiye - open to remote, hybrid, or relocation opportunities worldwide.
