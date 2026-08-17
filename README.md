@@ -1,10 +1,10 @@
-# Hi, I'm Bengisu 👋
+# Hi, I'm Bengisu 
 
 Data Analyst with an engineering background, building end-to-end pipelines from raw data to business insight using Python, SQL, and Power BI.
 
 Open to remote or hybrid Data Analyst roles.
 
-## 🛠️ Skills
+## Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -16,7 +16,7 @@ Open to remote or hybrid Data Analyst roles.
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-## 📂 Projects
+## Projects
 
 | Project | Description | Stack |
 |---|---|---|
